@@ -29,5 +29,6 @@
 ## 역할 분담
 - 수업관리(등록 / 수정 / 삭제) , 수업 목록조회 및 필터검색, 수업신청, 수업 후기(신고), 수업 문의, 답변, 배포
 
-<a href="https://github.com/Kimozoz/RoundTheVillage/tree/master/RoundTheVillage/src/main/java/com/kh/RoundTheVillage/lesson">구현 소스</a>
+<a href="https://github.com/Kimozoz/RoundTheVillage/tree/master/RoundTheVillage/src/main/java/com/kh/RoundTheVillage/lesson">클래스</a>
+<a href="https://github.com/Kimozoz/RoundTheVillage/tree/master/RoundTheVillage/src/main/webapp/WEB-INF/views/lesson">화면</a>
 
